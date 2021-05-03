@@ -9,7 +9,7 @@ This time I would like to simulate missing value treatment of Greenhouse gas emi
 
 ![textimage](https://github.com/altheanabila/Missing-Value-Treatment-simulation-in-Python/blob/main/mvt1.png)
 
-2. See the values of each variables, as we can see that Greenhouse gas emissions only has 3 values compared to other variable's values.
+2. See the values of each variables, as we can see that Greenhouse gas emissions only has 43 values compared to other variable's values.
 
 ![textimage](https://github.com/altheanabila/Missing-Value-Treatment-simulation-in-Python/blob/main/mvt2.png)
 
